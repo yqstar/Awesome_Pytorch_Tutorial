@@ -1,0 +1,2 @@
+# 忽略Pytorch_backup文件夹
+/Pytorch_backup/*
